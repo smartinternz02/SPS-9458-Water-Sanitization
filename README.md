@@ -8,6 +8,10 @@ India has always been facing problems regarding the quality of drinking water, b
 # Aim
 The aim of this data visualization is to depict the distribution of these contaminating parameters over the country and try to get the details of the particular district, block, panchayat name so that needed action can be taken by prioritizing them. 
 
+# Dashboard related links
+
+Refer to the Dashboard.md file in the Dashboard folder
+
 
 
 
