@@ -1,6 +1,6 @@
 # Dashboard public link
 
-link: https://public.tableau.com/profile/bilwa.gaonker#!/vizhome/Water_Quality/Dashboard_Water_Quality
+https://public.tableau.com/profile/bilwa.gaonker#!/vizhome/Water_Quality/Dashboard_Water_Quality
 
 # Dashboard Explaining link
 
