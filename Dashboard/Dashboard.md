@@ -2,6 +2,11 @@
 
 link: https://public.tableau.com/profile/bilwa.gaonker#!/vizhome/Water_Quality/Dashboard_Water_Quality
 
+# Dashboard Explaining link
+
+https://drive.google.com/file/d/1rRVX0IVMPoGju8gX5BeQNdPvVoBVrO4v/view?usp=sharing
+
+
 # Dashboard snapshot
 ![image](https://user-images.githubusercontent.com/57268153/116238983-b8ea9a80-a77f-11eb-85fb-1d9704d3f800.png)
 
