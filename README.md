@@ -10,7 +10,11 @@ The aim of this data visualization is to depict the distribution of these contam
 
 # Dashboard related links
 
-Refer to the Dashboard.md file in the Dashboard folder
+Refer to the Dashboard.md file in the Dashboard folder. All the screenshots and the project document have been uploaded to the same.
+
+# Story related links
+
+Refer to the .md file in Story folder. The pdf having the story screenshots is uploaded to the same.
 
 
 
